@@ -1,4 +1,4 @@
-project "lua"
+project "rttr"
     kind "StaticLib"
     language "C++"
     
